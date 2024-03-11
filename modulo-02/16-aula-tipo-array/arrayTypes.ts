@@ -29,7 +29,6 @@ let linguagensArray: string[] = new Array('TypeScript','Python', 'JavaScript', '
 function funcaoLinguagens (linguagens: string[]) {
     for (let i = 0; i < linguagens.length; i++) {
         console.log(linguagens[i]);
-        
     }
 }
 
